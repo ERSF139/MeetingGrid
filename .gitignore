@@ -1,0 +1,7 @@
+build/
+build-*/
+.qtcreator/
+*.user
+CMakeLists.txt.user*
+aqtinstall.log
+*.log
